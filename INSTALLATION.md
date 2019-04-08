@@ -59,4 +59,4 @@
 
   Hardsploit can be used without being connected but you will not have the possibility to execute commands or to use the wiring helper
 
-For the next part [it's this way](component-management)
+For the next part [it's this way](https://github.com/OPALESECURITY/hardsploit-gui/wiki/component-management)
