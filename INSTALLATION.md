@@ -37,6 +37,11 @@
    gem install hardsploit_gui
    ```
 
+   You will also need to add this line in ~/.profile file.
+   ```bash
+   export QT_X11_NO_MITSHM=1
+   ```
+
    That's it ! Hardsploit is now ready to be launched. Connect your board by USB and type in the terminal
 
    ```
