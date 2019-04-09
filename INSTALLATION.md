@@ -50,11 +50,11 @@
 
    At the opening you will have in the console either this message:
 
-   ![usb-ok](images/usb_ok.png)
+   ![usb-ok](images/hardsploit-connected.jpg)
 
    Or this one:
 
-   ![usb-nok](/images/ok.png)
+   ![usb-nok](/images/hardsploit-disconnected.jpg)
 
   If you have this last one, please check your USB connectivity. Don't forget that if you are using a virtual machine you have to attach Hardsploit to it.
   Hardsploit doesn't manage hotswap yet so you will have to
